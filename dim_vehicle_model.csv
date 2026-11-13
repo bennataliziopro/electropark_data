@@ -1,0 +1,6 @@
+ModelCode,ModelName,Segment,BatteryCapacityKWh,LengthM,FootprintM2,ProductionSharePct,OriginPlant
+MKR-U1,MKR Urba,City car,42,3.95,7.1,28.0,Hamilton
+MKR-U2,MKR Urba Long Range,City car,54,3.95,7.1,22.0,Hamilton
+MKR-V1,MKR Volt S,Compact sedan,65,4.45,8.2,24.0,Hamilton
+MKR-C1,MKR Cargo L,Light van,78,4.9,9.8,16.0,Hamilton
+MKR-C2,MKR Cargo XL,Van,92,5.4,11.2,10.0,Windsor

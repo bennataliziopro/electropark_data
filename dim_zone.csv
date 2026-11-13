@@ -1,0 +1,9 @@
+ZoneCode,ZoneName,ZoneType,CapacityVehicles,SurfaceM2,HasCharging,ChargerTypeAvailable,IsCovered
+Z-IN,Reception & Inspection,Reception,60,1300,0,None,1
+Z-A,Storage Block A,Storage,325,4650,0,None,0
+Z-B,Storage Block B,Storage,325,4650,0,None,0
+Z-C,Storage Block C,Storage,235,3350,0,None,1
+Z-AC,AC Charging Area,Charging,85,1700,1,AC 22 kW,0
+Z-DC,DC Fast Charging Bay,Charging,40,900,1,DC 50-150 kW,1
+Z-OUT,Dispatch & Loading,Dispatch,70,2000,0,None,0
+Z-QR,Quarantine & Rework,Quarantine,60,1450,0,None,1

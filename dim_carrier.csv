@@ -1,0 +1,7 @@
+CarrierCode,CarrierName,TransportMode,DestinationRegion,ContractType,AvgLeadTimeDays
+CAR-ML,Maple Logistics,Truck,Ontario,Framework,1
+CAR-TC,TransCan Auto,Truck,Quebec,Framework,2
+CAR-GL,Great Lakes Transport,Rail,Ontario / Midwest US,Spot,3
+CAR-PW,PacWest Carriers,Rail,British Columbia,Framework,6
+CAR-NF,Northern Fleet Services,Truck,Northern Ontario,Spot,2
+CAR-AT,Atlantic Movers,Truck,Maritimes,Spot,4
