@@ -1,0 +1,366 @@
+Date,Month,Day_of_Week,Day_Type,Season,Temperature_C,Weather,Vehicles_Entry_Gate_A,Vehicles_Entry_Gate_B,Total_Arrivals,Total_Departures,Vehicles_On_Site_EOD,Dispatched_Without_Full_Charge,Avg_Storage_Duration_days
+2025-01-01,January,Wednesday,Holiday,Winter,-35.3,Snow,13,19,32,21,11,9,4.1
+2025-01-02,January,Thursday,Weekday,Winter,-37.9,Snow,37,51,88,68,20,6,2.8
+2025-01-03,January,Friday,Weekday,Winter,-37.3,Partly Cloudy,47,73,120,103,17,9,2.4
+2025-01-04,January,Saturday,Weekend,Winter,-36.4,Sunny,43,56,99,82,17,1,2.4
+2025-01-05,January,Sunday,Weekend,Winter,-44.2,Partly Cloudy,34,52,86,75,11,5,3.3
+2025-01-06,January,Monday,Weekday,Winter,-40.4,Partly Cloudy,67,103,170,155,15,9,2.7
+2025-01-07,January,Tuesday,Weekday,Winter,-38.8,Partly Cloudy,50,78,128,107,21,8,2.9
+2025-01-08,January,Wednesday,Weekday,Winter,-35,Snow,45,69,114,109,5,5,2.9
+2025-01-09,January,Thursday,Weekday,Winter,-40.1,Sunny,72,98,170,163,7,8,3.8
+2025-01-10,January,Friday,Weekday,Winter,-36.9,Overcast,62,96,158,139,19,9,3
+2025-01-11,January,Saturday,Weekend,Winter,-38.6,Sunny,37,51,88,81,7,3,4.1
+2025-01-12,January,Sunday,Weekend,Winter,-42.7,Sunny,30,48,78,54,24,1,2.8
+2025-01-13,January,Monday,Weekday,Winter,-35.6,Partly Cloudy,61,85,146,140,6,6,3.8
+2025-01-14,January,Tuesday,Weekday,Winter,-39.3,Partly Cloudy,53,83,136,130,6,10,4.1
+2025-01-15,January,Wednesday,Weekday,Winter,-39.1,Sunny,68,101,169,148,21,9,4
+2025-01-16,January,Thursday,Weekday,Winter,-35.1,Sunny,68,101,169,158,11,6,4
+2025-01-17,January,Friday,Weekday,Winter,-33.4,Snow,37,56,93,78,15,12,3.2
+2025-01-18,January,Saturday,Weekend,Winter,-38.5,Overcast,35,58,93,69,24,6,3.3
+2025-01-19,January,Sunday,Weekend,Winter,-39.4,Sunny,41,64,105,90,15,6,3.7
+2025-01-20,January,Monday,Weekday,Winter,-33.3,Snow,48,71,119,113,6,12,4.5
+2025-01-21,January,Tuesday,Weekday,Winter,-35.3,Overcast,54,72,126,120,6,5,3.7
+2025-01-22,January,Wednesday,Weekday,Winter,-32.8,Sunny,56,71,127,115,12,8,3
+2025-01-23,January,Thursday,Weekday,Winter,-34.1,Partly Cloudy,56,76,132,122,10,12,2.3
+2025-01-24,January,Friday,Weekday,Winter,-38.8,Partly Cloudy,81,111,192,180,12,13,2.1
+2025-01-25,January,Saturday,Weekend,Winter,-36.6,Snow,36,57,93,76,17,1,4.3
+2025-01-26,January,Sunday,Weekend,Winter,-31.2,Snow,31,46,77,56,21,5,3
+2025-01-27,January,Monday,Weekday,Winter,-32.4,Partly Cloudy,74,97,171,148,23,3,2.4
+2025-01-28,January,Tuesday,Weekday,Winter,-31.4,Sunny,81,106,187,172,15,4,4.4
+2025-01-29,January,Wednesday,Weekday,Winter,-33.5,Partly Cloudy,60,86,146,138,8,10,3.4
+2025-01-30,January,Thursday,Weekday,Winter,-36.9,Snow,60,75,135,120,15,5,3.6
+2025-01-31,January,Friday,Weekday,Winter,-28.2,Sunny,72,98,170,148,22,8,4.5
+2025-02-01,February,Saturday,Weekend,Winter,-34.9,Sunny,41,64,105,84,21,3,3.5
+2025-02-02,February,Sunday,Weekend,Winter,-32.6,Overcast,44,72,116,93,23,3,2.2
+2025-02-03,February,Monday,Weekday,Winter,-28.6,Overcast,70,92,162,139,23,8,3.8
+2025-02-04,February,Tuesday,Weekday,Winter,-38.1,Overcast,55,83,138,118,20,3,2.8
+2025-02-05,February,Wednesday,Weekday,Winter,-33.8,Sunny,72,99,171,155,16,4,4.4
+2025-02-06,February,Thursday,Weekday,Winter,-30.1,Overcast,59,81,140,135,5,11,2.1
+2025-02-07,February,Friday,Weekday,Winter,-22.5,Sunny,65,100,165,149,16,2,2.2
+2025-02-08,February,Saturday,Weekend,Winter,-27.3,Sunny,47,59,106,101,5,4,3.7
+2025-02-09,February,Sunday,Weekend,Winter,-24.4,Partly Cloudy,42,57,99,86,13,5,4
+2025-02-10,February,Monday,Weekday,Winter,-29.1,Sunny,85,120,205,193,12,12,3.1
+2025-02-11,February,Tuesday,Weekday,Winter,-29.7,Sunny,87,125,212,201,11,12,2.7
+2025-02-12,February,Wednesday,Weekday,Winter,-30.3,Sunny,73,92,165,141,24,10,2.6
+2025-02-13,February,Thursday,Weekday,Winter,-28.3,Snow,49,69,118,94,24,4,3.3
+2025-02-14,February,Friday,Weekday,Winter,-26.1,Snow,63,84,147,127,20,11,3.5
+2025-02-15,February,Saturday,Weekend,Winter,-23.3,Sunny,44,58,102,82,20,3,2.7
+2025-02-16,February,Sunday,Weekend,Winter,-22.5,Sunny,55,77,132,114,18,2,3.3
+2025-02-17,February,Monday,Holiday,Winter,-29.9,Overcast,32,51,83,76,7,13,3
+2025-02-18,February,Tuesday,Weekday,Winter,-26.5,Snow,42,68,110,91,19,7,3.3
+2025-02-19,February,Wednesday,Weekday,Winter,-21.1,Overcast,84,110,194,178,16,13,3.1
+2025-02-20,February,Thursday,Weekday,Winter,-21.8,Overcast,101,132,233,222,11,3,3.4
+2025-02-21,February,Friday,Weekday,Winter,-26.1,Sunny,73,92,165,159,6,13,2.7
+2025-02-22,February,Saturday,Weekend,Winter,-19.5,Sunny,56,83,139,115,24,5,4.3
+2025-02-23,February,Sunday,Weekend,Winter,-25.3,Sunny,46,62,108,92,16,3,3.7
+2025-02-24,February,Monday,Weekday,Winter,-22.6,Snow,65,91,156,140,16,2,3.4
+2025-02-25,February,Tuesday,Weekday,Winter,-20.3,Sunny,90,144,234,219,15,12,4.5
+2025-02-26,February,Wednesday,Weekday,Winter,-19.2,Partly Cloudy,83,110,193,184,9,7,2.2
+2025-02-27,February,Thursday,Weekday,Winter,-23.2,Snow,75,116,191,174,17,3,3.5
+2025-02-28,February,Friday,Weekday,Winter,-23.8,Sunny,70,94,164,146,18,5,3.5
+2025-03-01,March,Saturday,Weekend,Spring,-20.6,Sunny,63,83,146,127,19,4,3.3
+2025-03-02,March,Sunday,Weekend,Spring,-20.1,Overcast,59,75,134,128,6,3,3.6
+2025-03-03,March,Monday,Weekday,Spring,-20.6,Overcast,68,101,169,160,9,8,3.6
+2025-03-04,March,Tuesday,Weekday,Spring,-19.2,Overcast,77,107,184,164,20,3,4.2
+2025-03-05,March,Wednesday,Weekday,Spring,-19.3,Snow,72,93,165,150,15,10,3.7
+2025-03-06,March,Thursday,Weekday,Spring,-16,Partly Cloudy,94,147,241,229,12,5,2.9
+2025-03-07,March,Friday,Weekday,Spring,-10.2,Overcast,69,105,174,160,14,7,3
+2025-03-08,March,Saturday,Weekend,Spring,-15.8,Snow,35,44,79,55,24,5,3.2
+2025-03-09,March,Sunday,Weekend,Spring,-15.3,Partly Cloudy,58,82,140,117,23,3,4
+2025-03-10,March,Monday,Weekday,Spring,-16.5,Sunny,85,112,197,176,21,7,2.6
+2025-03-11,March,Tuesday,Weekday,Spring,-13.7,Overcast,92,114,206,186,20,6,2.4
+2025-03-12,March,Wednesday,Weekday,Spring,-15.8,Sunny,116,154,270,262,8,3,2.5
+2025-03-13,March,Thursday,Weekday,Spring,-12.8,Snow,80,106,186,167,19,11,3.8
+2025-03-14,March,Friday,Weekday,Spring,-10.9,Partly Cloudy,117,154,271,258,13,11,3
+2025-03-15,March,Saturday,Weekend,Spring,-10.6,Snow,48,69,117,102,15,3,2.9
+2025-03-16,March,Sunday,Weekend,Spring,-11.1,Partly Cloudy,63,101,164,154,10,2,4.1
+2025-03-17,March,Monday,Weekday,Spring,-14.2,Snow,48,72,120,106,14,8,3.6
+2025-03-18,March,Tuesday,Weekday,Spring,-14,Overcast,86,115,201,191,10,9,2.3
+2025-03-19,March,Wednesday,Weekday,Spring,-8.8,Snow,51,78,129,124,5,4,2.5
+2025-03-20,March,Thursday,Weekday,Spring,-8.3,Sunny,95,136,231,219,12,8,4
+2025-03-21,March,Friday,Weekday,Spring,-8.5,Sunny,116,161,277,267,10,9,2.6
+2025-03-22,March,Saturday,Weekend,Spring,-14.5,Overcast,56,77,133,125,8,3,3.4
+2025-03-23,March,Sunday,Weekend,Spring,-7.7,Sunny,65,107,172,161,11,1,3.6
+2025-03-24,March,Monday,Weekday,Spring,-2,Overcast,119,158,277,272,5,7,4.4
+2025-03-25,March,Tuesday,Weekday,Spring,-8.1,Partly Cloudy,112,182,294,282,12,2,3.5
+2025-03-26,March,Wednesday,Weekday,Spring,-6.9,Sunny,112,146,258,237,21,11,3
+2025-03-27,March,Thursday,Weekday,Spring,-9.6,Overcast,112,160,272,251,21,7,4.3
+2025-03-28,March,Friday,Weekday,Spring,-3.7,Partly Cloudy,93,144,237,216,21,4,3.6
+2025-03-29,March,Saturday,Weekend,Spring,4.4,Sunny,81,100,181,159,22,6,3.6
+2025-03-30,March,Sunday,Weekend,Spring,0,Sunny,65,86,151,132,19,5,2.1
+2025-03-31,March,Monday,Weekday,Spring,-5.2,Overcast,84,128,212,191,21,9,3.8
+2025-04-01,April,Tuesday,Weekday,Spring,-5.3,Sunny,89,145,234,229,5,11,3.7
+2025-04-02,April,Wednesday,Weekday,Spring,-1.7,Sunny,128,160,288,280,8,4,2.8
+2025-04-03,April,Thursday,Weekday,Spring,-0.7,Overcast,85,130,215,208,7,10,4.5
+2025-04-04,April,Friday,Weekday,Spring,-3.1,Sunny,89,140,229,209,20,8,3.8
+2025-04-05,April,Saturday,Weekend,Spring,-2.2,Sunny,63,98,161,138,23,1,4.2
+2025-04-06,April,Sunday,Weekend,Spring,-3.9,Sunny,76,97,173,161,12,3,2.9
+2025-04-07,April,Monday,Weekday,Spring,-3.4,Overcast,90,146,236,212,24,7,4
+2025-04-08,April,Tuesday,Weekday,Spring,-2.8,Sunny,98,160,258,252,6,7,4.2
+2025-04-09,April,Wednesday,Weekday,Spring,1.4,Sunny,83,128,211,194,17,2,3.5
+2025-04-10,April,Thursday,Weekday,Spring,-2.4,Sunny,107,147,254,245,9,2,2.5
+2025-04-11,April,Friday,Weekday,Spring,1.5,Sunny,119,148,267,262,5,10,3.4
+2025-04-12,April,Saturday,Weekend,Spring,10.7,Sunny,56,77,133,119,14,3,4.4
+2025-04-13,April,Sunday,Weekend,Spring,2.1,Partly Cloudy,69,100,169,148,21,4,4
+2025-04-14,April,Monday,Weekday,Spring,11.4,Partly Cloudy,98,131,229,220,9,4,3.7
+2025-04-15,April,Tuesday,Weekday,Spring,5.4,Overcast,88,125,213,200,13,7,2.3
+2025-04-16,April,Wednesday,Weekday,Spring,8.4,Sunny,123,203,326,314,12,5,4.4
+2025-04-17,April,Thursday,Weekday,Spring,5.1,Overcast,120,166,286,281,5,10,3.2
+2025-04-18,April,Friday,Weekday,Spring,9.8,Sunny,110,135,245,234,11,13,2.8
+2025-04-19,April,Saturday,Weekend,Spring,4.6,Sunny,80,118,198,184,14,3,2.2
+2025-04-20,April,Sunday,Weekend,Spring,9,Partly Cloudy,57,84,141,125,16,1,2.4
+2025-04-21,April,Monday,Weekday,Spring,7.1,Partly Cloudy,116,146,262,240,22,12,3.8
+2025-04-22,April,Tuesday,Weekday,Spring,5,Overcast,99,133,232,224,8,8,3.5
+2025-04-23,April,Wednesday,Weekday,Spring,11.2,Sunny,122,197,319,314,5,4,2.1
+2025-04-24,April,Thursday,Weekday,Spring,6.7,Sunny,98,158,256,235,21,13,3.4
+2025-04-25,April,Friday,Weekday,Spring,11.2,Sunny,93,129,222,217,5,10,3.5
+2025-04-26,April,Saturday,Weekend,Spring,12.7,Sunny,75,99,174,152,22,3,3
+2025-04-27,April,Sunday,Weekend,Spring,13.7,Sunny,81,101,182,176,6,1,3.6
+2025-04-28,April,Monday,Weekday,Spring,9.8,Sunny,98,139,237,217,20,12,3.4
+2025-04-29,April,Tuesday,Weekday,Spring,17.3,Sunny,110,141,251,230,21,9,2.7
+2025-04-30,April,Wednesday,Weekday,Spring,8.8,Partly Cloudy,87,143,230,222,8,5,4.5
+2025-05-01,May,Thursday,Weekday,Spring,12.7,Partly Cloudy,103,133,236,212,24,12,2.4
+2025-05-02,May,Friday,Weekday,Spring,13.4,Sunny,130,168,298,277,21,10,3.6
+2025-05-03,May,Saturday,Weekend,Spring,11.6,Sunny,77,95,172,163,9,4,3.2
+2025-05-04,May,Sunday,Weekend,Spring,18.6,Sunny,92,115,207,186,21,2,3.7
+2025-05-05,May,Monday,Weekday,Spring,16.3,Sunny,134,196,330,320,10,10,4.1
+2025-05-06,May,Tuesday,Weekday,Spring,15.5,Sunny,127,157,284,271,13,6,3.8
+2025-05-07,May,Wednesday,Weekday,Spring,16.1,Sunny,123,185,308,295,13,6,2.8
+2025-05-08,May,Thursday,Weekday,Spring,11.5,Overcast,93,137,230,210,20,7,3.1
+2025-05-09,May,Friday,Weekday,Spring,16.7,Partly Cloudy,133,180,313,290,23,7,3.8
+2025-05-10,May,Saturday,Weekend,Spring,14.9,Sunny,85,121,206,188,18,4,4.2
+2025-05-11,May,Sunday,Weekend,Spring,18.6,Sunny,70,93,163,139,24,4,3.2
+2025-05-12,May,Monday,Weekday,Spring,19.7,Partly Cloudy,97,156,253,232,21,6,4
+2025-05-13,May,Tuesday,Weekday,Spring,22.1,Sunny,131,208,339,323,16,13,3.3
+2025-05-14,May,Wednesday,Weekday,Spring,19.8,Sunny,140,176,316,300,16,9,2.7
+2025-05-15,May,Thursday,Weekday,Spring,17.2,Partly Cloudy,98,155,253,242,11,9,4.1
+2025-05-16,May,Friday,Weekday,Spring,12.7,Partly Cloudy,103,139,242,220,22,12,2.3
+2025-05-17,May,Saturday,Weekend,Spring,15.7,Partly Cloudy,70,101,171,161,10,5,3.8
+2025-05-18,May,Sunday,Weekend,Spring,22.3,Overcast,87,126,213,195,18,4,2.1
+2025-05-19,May,Monday,Holiday,Spring,19.6,Partly Cloudy,49,77,126,114,12,12,2.2
+2025-05-20,May,Tuesday,Weekday,Spring,21,Sunny,98,155,253,232,21,6,3.3
+2025-05-21,May,Wednesday,Weekday,Spring,22.8,Overcast,113,158,271,258,13,12,3.1
+2025-05-22,May,Thursday,Weekday,Spring,24.4,Sunny,124,173,297,278,19,10,4.2
+2025-05-23,May,Friday,Weekday,Spring,25.7,Partly Cloudy,144,188,332,320,12,5,2.5
+2025-05-24,May,Saturday,Weekend,Spring,20.3,Sunny,63,86,149,140,9,6,2.1
+2025-05-25,May,Sunday,Weekend,Spring,20.3,Sunny,69,108,177,153,24,4,3.5
+2025-05-26,May,Monday,Weekday,Spring,20.6,Sunny,112,139,251,228,23,6,4
+2025-05-27,May,Tuesday,Weekday,Spring,19.2,Partly Cloudy,156,199,355,341,14,10,2.3
+2025-05-28,May,Wednesday,Weekday,Spring,21.6,Partly Cloudy,151,189,340,325,15,2,3
+2025-05-29,May,Thursday,Weekday,Spring,21.4,Partly Cloudy,108,137,245,230,15,12,2.7
+2025-05-30,May,Friday,Weekday,Spring,27.1,Sunny,117,167,284,275,9,10,3.6
+2025-05-31,May,Saturday,Weekend,Spring,22.4,Sunny,62,102,164,158,6,6,2.2
+2025-06-01,June,Sunday,Weekend,Summer,23,Partly Cloudy,82,119,201,178,23,5,2.6
+2025-06-02,June,Monday,Weekday,Summer,26.2,Overcast,125,162,287,278,9,11,2.2
+2025-06-03,June,Tuesday,Weekday,Summer,23.9,Sunny,128,168,296,284,12,4,2.3
+2025-06-04,June,Wednesday,Weekday,Summer,22,Sunny,115,153,268,246,22,6,3
+2025-06-05,June,Thursday,Weekday,Summer,25.5,Sunny,121,174,295,278,17,2,4.1
+2025-06-06,June,Friday,Weekday,Summer,26.2,Overcast,113,156,269,255,14,7,2.5
+2025-06-07,June,Saturday,Weekend,Summer,24.7,Sunny,66,104,170,147,23,5,2.8
+2025-06-08,June,Sunday,Weekend,Summer,21.5,Partly Cloudy,61,94,155,137,18,6,2.2
+2025-06-09,June,Monday,Weekday,Summer,22.6,Sunny,118,183,301,289,12,13,3.8
+2025-06-10,June,Tuesday,Weekday,Summer,27.8,Overcast,128,160,288,282,6,7,3.1
+2025-06-11,June,Wednesday,Weekday,Summer,21.7,Sunny,146,196,342,324,18,2,3.2
+2025-06-12,June,Thursday,Weekday,Summer,23.6,Overcast,124,170,294,288,6,9,3
+2025-06-13,June,Friday,Weekday,Summer,28.3,Sunny,137,212,349,325,24,4,2.6
+2025-06-14,June,Saturday,Weekend,Summer,32,Overcast,65,106,171,156,15,1,2.6
+2025-06-15,June,Sunday,Weekend,Summer,27.9,Overcast,96,121,217,197,20,3,3.7
+2025-06-16,June,Monday,Weekday,Summer,30.6,Partly Cloudy,90,148,238,231,7,4,2.4
+2025-06-17,June,Tuesday,Weekday,Summer,24.2,Sunny,120,152,272,250,22,7,4.3
+2025-06-18,June,Wednesday,Weekday,Summer,27.9,Overcast,109,162,271,248,23,5,3.5
+2025-06-19,June,Thursday,Weekday,Summer,19.9,Overcast,136,196,332,325,7,11,3.4
+2025-06-20,June,Friday,Weekday,Summer,20.9,Sunny,148,188,336,318,18,13,3.3
+2025-06-21,June,Saturday,Weekend,Summer,18.4,Partly Cloudy,89,119,208,194,14,4,2.3
+2025-06-22,June,Sunday,Weekend,Summer,25.4,Overcast,70,97,167,150,17,4,2.7
+2025-06-23,June,Monday,Weekday,Summer,23.8,Overcast,120,162,282,276,6,6,2.8
+2025-06-24,June,Tuesday,Weekday,Summer,25.8,Sunny,104,130,234,210,24,9,4.2
+2025-06-25,June,Wednesday,Weekday,Summer,26.5,Partly Cloudy,101,159,260,248,12,7,3.6
+2025-06-26,June,Thursday,Weekday,Summer,26.1,Partly Cloudy,131,175,306,290,16,8,2.5
+2025-06-27,June,Friday,Weekday,Summer,25.5,Partly Cloudy,95,138,233,215,18,6,3.1
+2025-06-28,June,Saturday,Weekend,Summer,27.6,Overcast,65,84,149,132,17,2,4.4
+2025-06-29,June,Sunday,Weekend,Summer,23.9,Partly Cloudy,71,113,184,165,19,2,4
+2025-06-30,June,Monday,Weekday,Summer,20.6,Sunny,128,187,315,302,13,4,2.9
+2025-07-01,July,Tuesday,Holiday,Summer,23.7,Overcast,47,59,106,83,23,6,3.8
+2025-07-02,July,Wednesday,Weekday,Summer,17.9,Partly Cloudy,140,175,315,293,22,8,3.2
+2025-07-03,July,Thursday,Weekday,Summer,22.1,Overcast,138,195,333,328,5,10,2.5
+2025-07-04,July,Friday,Weekday,Summer,23.9,Partly Cloudy,107,141,248,239,9,3,4.2
+2025-07-05,July,Saturday,Weekend,Summer,24.7,Sunny,77,125,202,193,9,1,2.1
+2025-07-06,July,Sunday,Weekend,Summer,24.8,Overcast,84,119,203,181,22,3,2.9
+2025-07-07,July,Monday,Weekday,Summer,19.1,Overcast,88,141,229,217,12,12,4.1
+2025-07-08,July,Tuesday,Weekday,Summer,26.9,Sunny,102,143,245,222,23,6,3
+2025-07-09,July,Wednesday,Weekday,Summer,18.7,Partly Cloudy,121,154,275,252,23,2,2.7
+2025-07-10,July,Thursday,Weekday,Summer,23.3,Overcast,111,171,282,268,14,4,2.2
+2025-07-11,July,Friday,Weekday,Summer,23.2,Sunny,110,173,283,267,16,5,3.3
+2025-07-12,July,Saturday,Weekend,Summer,23.3,Sunny,85,113,198,186,12,3,4.3
+2025-07-13,July,Sunday,Weekend,Summer,23.4,Partly Cloudy,58,94,152,132,20,3,3.4
+2025-07-14,July,Monday,Weekday,Summer,21,Overcast,100,132,232,223,9,12,4.3
+2025-07-15,July,Tuesday,Weekday,Summer,20.8,Sunny,122,192,314,299,15,13,3.3
+2025-07-16,July,Wednesday,Weekday,Summer,25.2,Sunny,95,139,234,222,12,6,4
+2025-07-17,July,Thursday,Weekday,Summer,19.9,Sunny,103,166,269,251,18,9,2.1
+2025-07-18,July,Friday,Weekday,Summer,27.1,Sunny,91,134,225,203,22,3,4.1
+2025-07-19,July,Saturday,Weekend,Summer,18.4,Sunny,77,107,184,177,7,3,3.1
+2025-07-20,July,Sunday,Weekend,Summer,20.4,Overcast,66,94,160,137,23,4,3
+2025-07-21,July,Monday,Weekday,Summer,24.6,Sunny,118,154,272,248,24,13,3.6
+2025-07-22,July,Tuesday,Weekday,Summer,17.8,Sunny,102,126,228,209,19,10,4.1
+2025-07-23,July,Wednesday,Weekday,Summer,17.2,Overcast,108,154,262,253,9,2,3.5
+2025-07-24,July,Thursday,Weekday,Summer,15.7,Overcast,107,158,265,252,13,12,4.4
+2025-07-25,July,Friday,Weekday,Summer,19.7,Partly Cloudy,111,167,278,272,6,10,4
+2025-07-26,July,Saturday,Weekend,Summer,21.2,Sunny,72,97,169,150,19,2,4.1
+2025-07-27,July,Sunday,Weekend,Summer,19,Sunny,73,110,183,169,14,3,2.6
+2025-07-28,July,Monday,Weekday,Summer,14.1,Overcast,90,146,236,228,8,3,4.5
+2025-07-29,July,Tuesday,Weekday,Summer,17.5,Sunny,102,129,231,226,5,4,2.8
+2025-07-30,July,Wednesday,Weekday,Summer,20,Partly Cloudy,109,177,286,272,14,11,3.3
+2025-07-31,July,Thursday,Weekday,Summer,13.5,Sunny,116,181,297,285,12,9,2.5
+2025-08-01,August,Friday,Weekday,Summer,16,Sunny,95,125,220,207,13,7,2.9
+2025-08-02,August,Saturday,Weekend,Summer,20,Partly Cloudy,60,91,151,145,6,6,3.1
+2025-08-03,August,Sunday,Weekend,Summer,10.9,Overcast,72,98,170,147,23,3,2.5
+2025-08-04,August,Monday,Holiday,Summer,14.1,Overcast,41,67,108,87,21,5,3.2
+2025-08-05,August,Tuesday,Weekday,Summer,14.4,Sunny,109,142,251,234,17,3,2.2
+2025-08-06,August,Wednesday,Weekday,Summer,10.4,Sunny,86,111,197,181,16,9,2.4
+2025-08-07,August,Thursday,Weekday,Summer,12.2,Sunny,89,144,233,226,7,3,2.3
+2025-08-08,August,Friday,Weekday,Summer,20.1,Sunny,113,158,271,253,18,9,2.3
+2025-08-09,August,Saturday,Weekend,Summer,8.8,Partly Cloudy,75,102,177,162,15,3,3.3
+2025-08-10,August,Sunday,Weekend,Summer,6.6,Sunny,62,94,156,138,18,2,2.6
+2025-08-11,August,Monday,Weekday,Summer,12.4,Sunny,91,118,209,198,11,11,3
+2025-08-12,August,Tuesday,Weekday,Summer,13.8,Sunny,91,112,203,182,21,11,3.1
+2025-08-13,August,Wednesday,Weekday,Summer,11.2,Sunny,115,159,274,269,5,12,2.3
+2025-08-14,August,Thursday,Weekday,Summer,14.5,Partly Cloudy,107,154,261,246,15,4,2.2
+2025-08-15,August,Friday,Weekday,Summer,14.5,Sunny,109,138,247,240,7,2,2.6
+2025-08-16,August,Saturday,Weekend,Summer,15.3,Overcast,44,71,115,105,10,5,4.4
+2025-08-17,August,Sunday,Weekend,Summer,8.6,Sunny,56,80,136,115,21,5,2.4
+2025-08-18,August,Monday,Weekday,Summer,8.4,Sunny,93,146,239,217,22,12,3.1
+2025-08-19,August,Tuesday,Weekday,Summer,10,Overcast,117,157,274,267,7,7,2.1
+2025-08-20,August,Wednesday,Weekday,Summer,12.3,Sunny,102,134,236,222,14,10,4.3
+2025-08-21,August,Thursday,Weekday,Summer,12.5,Overcast,84,123,207,192,15,13,4.1
+2025-08-22,August,Friday,Weekday,Summer,4.7,Sunny,103,133,236,217,19,8,4.3
+2025-08-23,August,Saturday,Weekend,Summer,10.8,Partly Cloudy,61,101,162,154,8,4,2.7
+2025-08-24,August,Sunday,Weekend,Summer,6.8,Overcast,66,86,152,141,11,3,4.2
+2025-08-25,August,Monday,Weekday,Summer,4.5,Partly Cloudy,100,147,247,237,10,10,4
+2025-08-26,August,Tuesday,Weekday,Summer,6.6,Sunny,108,140,248,233,15,9,3.2
+2025-08-27,August,Wednesday,Weekday,Summer,2.1,Sunny,97,121,218,212,6,13,2.2
+2025-08-28,August,Thursday,Weekday,Summer,4.1,Partly Cloudy,80,121,201,182,19,8,2.5
+2025-08-29,August,Friday,Weekday,Summer,4.5,Partly Cloudy,73,104,177,169,8,6,2.1
+2025-08-30,August,Saturday,Weekend,Summer,7.5,Sunny,53,69,122,115,7,2,2.2
+2025-08-31,August,Sunday,Weekend,Summer,1.3,Partly Cloudy,67,84,151,140,11,6,4.2
+2025-09-01,September,Monday,Holiday,Autumn,5.3,Overcast,26,43,69,45,24,8,2.3
+2025-09-02,September,Tuesday,Weekday,Autumn,8.2,Sunny,70,102,172,159,13,3,2.9
+2025-09-03,September,Wednesday,Weekday,Autumn,0.2,Sunny,80,107,187,164,23,8,3.2
+2025-09-04,September,Thursday,Weekday,Autumn,3.9,Sunny,95,142,237,216,21,8,2.8
+2025-09-05,September,Friday,Weekday,Autumn,4.4,Partly Cloudy,86,115,201,192,9,10,2.8
+2025-09-06,September,Saturday,Weekend,Autumn,1.4,Overcast,50,77,127,109,18,4,4.4
+2025-09-07,September,Sunday,Weekend,Autumn,4.5,Overcast,59,82,141,130,11,1,4
+2025-09-08,September,Monday,Weekday,Autumn,-4.1,Overcast,73,101,174,153,21,7,2.9
+2025-09-09,September,Tuesday,Weekday,Autumn,0.1,Sunny,105,130,235,213,22,5,4
+2025-09-10,September,Wednesday,Weekday,Autumn,-1.7,Overcast,90,121,211,205,6,2,4.4
+2025-09-11,September,Thursday,Weekday,Autumn,-6.2,Overcast,101,132,233,225,8,9,4
+2025-09-12,September,Friday,Weekday,Autumn,-6.7,Sunny,82,114,196,180,16,4,2.3
+2025-09-13,September,Saturday,Weekend,Autumn,-2.5,Overcast,49,77,126,119,7,3,2.3
+2025-09-14,September,Sunday,Weekend,Autumn,-7.6,Sunny,44,58,102,88,14,5,3.5
+2025-09-15,September,Monday,Weekday,Autumn,-8.4,Partly Cloudy,90,130,220,200,20,10,2.9
+2025-09-16,September,Tuesday,Weekday,Autumn,-5.2,Sunny,74,110,184,175,9,2,2.9
+2025-09-17,September,Wednesday,Weekday,Autumn,-6.6,Partly Cloudy,80,115,195,176,19,2,2.9
+2025-09-18,September,Thursday,Weekday,Autumn,-8.4,Sunny,72,97,169,148,21,13,3.6
+2025-09-19,September,Friday,Weekday,Autumn,-10.1,Partly Cloudy,90,121,211,206,5,12,2.8
+2025-09-20,September,Saturday,Weekend,Autumn,-10.1,Overcast,42,63,105,96,9,2,4
+2025-09-21,September,Sunday,Weekend,Autumn,-10.9,Sunny,55,78,133,114,19,3,3.5
+2025-09-22,September,Monday,Weekday,Autumn,-11.8,Sunny,89,117,206,198,8,9,2.2
+2025-09-23,September,Tuesday,Weekday,Autumn,-8.2,Sunny,61,92,153,146,7,5,3.7
+2025-09-24,September,Wednesday,Weekday,Autumn,-10.1,Overcast,90,119,209,187,22,7,2.1
+2025-09-25,September,Thursday,Weekday,Autumn,-4.5,Sunny,76,121,197,182,15,11,3
+2025-09-26,September,Friday,Weekday,Autumn,-9.9,Sunny,57,85,142,136,6,8,3.2
+2025-09-27,September,Saturday,Weekend,Autumn,-9.3,Partly Cloudy,42,53,95,78,17,4,3.1
+2025-09-28,September,Sunday,Weekend,Autumn,-18.3,Partly Cloudy,47,68,115,103,12,3,3.5
+2025-09-29,September,Monday,Weekday,Autumn,-12.6,Partly Cloudy,61,92,153,148,5,5,3.5
+2025-09-30,September,Tuesday,Weekday,Autumn,-15.5,Overcast,83,105,188,164,24,2,4
+2025-10-01,October,Wednesday,Weekday,Autumn,-16.4,Partly Cloudy,78,118,196,189,7,7,2.1
+2025-10-02,October,Thursday,Weekday,Autumn,-20.7,Overcast,65,87,152,132,20,5,3
+2025-10-03,October,Friday,Weekday,Autumn,-18.4,Overcast,62,84,146,123,23,13,2.5
+2025-10-04,October,Saturday,Weekend,Autumn,-7.3,Overcast,43,61,104,95,9,5,3.5
+2025-10-05,October,Sunday,Weekend,Autumn,-17.2,Sunny,46,62,108,103,5,6,3.3
+2025-10-06,October,Monday,Weekday,Autumn,-20.3,Sunny,54,88,142,137,5,12,2.3
+2025-10-07,October,Tuesday,Weekday,Autumn,-11,Partly Cloudy,74,105,179,163,16,9,2.6
+2025-10-08,October,Wednesday,Weekday,Autumn,-17.3,Sunny,57,90,147,130,17,2,3.8
+2025-10-09,October,Thursday,Weekday,Autumn,-19.8,Overcast,75,102,177,161,16,6,3.7
+2025-10-10,October,Friday,Weekday,Autumn,-22.6,Sunny,64,90,154,146,8,13,3
+2025-10-11,October,Saturday,Weekend,Autumn,-22.7,Sunny,40,60,100,79,21,3,2.6
+2025-10-12,October,Sunday,Weekend,Autumn,-25.2,Sunny,35,55,90,80,10,4,2.4
+2025-10-13,October,Monday,Holiday,Autumn,-21.4,Partly Cloudy,23,38,61,45,16,7,4.3
+2025-10-14,October,Tuesday,Weekday,Autumn,-16.7,Overcast,52,85,137,130,7,10,3.3
+2025-10-15,October,Wednesday,Weekday,Autumn,-20.5,Sunny,68,106,174,161,13,10,4.3
+2025-10-16,October,Thursday,Weekday,Autumn,-20.7,Overcast,66,102,168,150,18,5,2.2
+2025-10-17,October,Friday,Weekday,Autumn,-23,Partly Cloudy,49,72,121,101,20,8,3.5
+2025-10-18,October,Saturday,Weekend,Autumn,-28.1,Sunny,35,55,90,80,10,5,2.1
+2025-10-19,October,Sunday,Weekend,Autumn,-23.6,Sunny,33,49,82,76,6,1,3.3
+2025-10-20,October,Monday,Weekday,Autumn,-23.8,Partly Cloudy,64,92,156,146,10,8,3.4
+2025-10-21,October,Tuesday,Weekday,Autumn,-23.8,Partly Cloudy,75,96,171,162,9,13,2
+2025-10-22,October,Wednesday,Weekday,Autumn,-26.6,Partly Cloudy,57,87,144,131,13,11,4.1
+2025-10-23,October,Thursday,Weekday,Autumn,-30,Overcast,65,100,165,151,14,10,2.9
+2025-10-24,October,Friday,Weekday,Autumn,-28.4,Sunny,51,66,117,95,22,10,4.4
+2025-10-25,October,Saturday,Weekend,Autumn,-25.7,Partly Cloudy,29,48,77,62,15,6,2.4
+2025-10-26,October,Sunday,Weekend,Autumn,-30.7,Partly Cloudy,40,54,94,82,12,6,3.2
+2025-10-27,October,Monday,Weekday,Autumn,-30.8,Sunny,57,81,138,127,11,6,3.8
+2025-10-28,October,Tuesday,Weekday,Autumn,-29.4,Overcast,59,93,152,134,18,10,4.3
+2025-10-29,October,Wednesday,Weekday,Autumn,-29.3,Overcast,42,66,108,87,21,3,3.6
+2025-10-30,October,Thursday,Weekday,Autumn,-23.6,Snow,32,51,83,73,10,5,3.2
+2025-10-31,October,Friday,Weekday,Autumn,-33.4,Sunny,47,62,109,92,17,10,2.5
+2025-11-01,November,Saturday,Weekend,Autumn,-27.4,Partly Cloudy,35,52,87,70,17,4,2.1
+2025-11-02,November,Sunday,Weekend,Autumn,-29.5,Sunny,35,51,86,65,21,2,3.2
+2025-11-03,November,Monday,Weekday,Autumn,-29.5,Partly Cloudy,46,74,120,108,12,2,4.2
+2025-11-04,November,Tuesday,Weekday,Autumn,-28.5,Overcast,55,88,143,128,15,5,3.1
+2025-11-05,November,Wednesday,Weekday,Autumn,-29,Sunny,61,86,147,139,8,4,3.9
+2025-11-06,November,Thursday,Weekday,Autumn,-32,Sunny,57,77,134,117,17,13,3
+2025-11-07,November,Friday,Weekday,Autumn,-30.5,Sunny,54,73,127,119,8,6,3.9
+2025-11-08,November,Saturday,Weekend,Autumn,-33.4,Overcast,36,53,89,78,11,4,2.4
+2025-11-09,November,Sunday,Weekend,Autumn,-32.5,Sunny,37,48,85,74,11,1,2.4
+2025-11-10,November,Monday,Weekday,Autumn,-40.1,Sunny,63,88,151,127,24,13,2.7
+2025-11-11,November,Tuesday,Holiday,Autumn,-36.5,Snow,12,17,29,6,23,10,3.4
+2025-11-12,November,Wednesday,Weekday,Autumn,-35,Sunny,50,63,113,100,13,9,4.4
+2025-11-13,November,Thursday,Weekday,Autumn,-30.1,Sunny,58,85,143,137,6,12,3.7
+2025-11-14,November,Friday,Weekday,Autumn,-38.2,Snow,35,56,91,69,22,12,4
+2025-11-15,November,Saturday,Weekend,Autumn,-32.4,Sunny,33,46,79,72,7,6,4.5
+2025-11-16,November,Sunday,Weekend,Autumn,-32,Snow,25,36,61,40,21,4,3.7
+2025-11-17,November,Monday,Weekday,Autumn,-35.4,Snow,31,40,71,51,20,6,3
+2025-11-18,November,Tuesday,Weekday,Autumn,-35.3,Sunny,41,60,101,91,10,3,2.3
+2025-11-19,November,Wednesday,Weekday,Autumn,-38.3,Partly Cloudy,43,70,113,89,24,10,2.1
+2025-11-20,November,Thursday,Weekday,Autumn,-39.8,Sunny,44,55,99,93,6,8,3.9
+2025-11-21,November,Friday,Weekday,Autumn,-37.1,Partly Cloudy,48,76,124,104,20,3,2.1
+2025-11-22,November,Saturday,Weekend,Autumn,-39.9,Partly Cloudy,29,43,72,53,19,5,4.4
+2025-11-23,November,Sunday,Weekend,Autumn,-31.8,Snow,18,25,43,22,21,2,2.6
+2025-11-24,November,Monday,Weekday,Autumn,-43.4,Partly Cloudy,42,67,109,89,20,4,4.2
+2025-11-25,November,Tuesday,Weekday,Autumn,-38.5,Overcast,61,90,151,143,8,5,2.8
+2025-11-26,November,Wednesday,Weekday,Autumn,-36.2,Snow,36,50,86,78,8,4,4.3
+2025-11-27,November,Thursday,Weekday,Autumn,-41.9,Overcast,49,72,121,103,18,10,4.1
+2025-11-28,November,Friday,Weekday,Autumn,-37,Overcast,54,81,135,127,8,2,3
+2025-11-29,November,Saturday,Weekend,Autumn,-42,Sunny,33,51,84,66,18,4,2.5
+2025-11-30,November,Sunday,Weekend,Autumn,-38.3,Partly Cloudy,31,48,79,59,20,6,4.1
+2025-12-01,December,Monday,Weekday,Winter,-43.6,Snow,25,40,65,49,16,6,3
+2025-12-02,December,Tuesday,Weekday,Winter,-41.8,Sunny,58,93,151,141,10,9,3.8
+2025-12-03,December,Wednesday,Weekday,Winter,-37.6,Snow,45,60,105,84,21,8,2.9
+2025-12-04,December,Thursday,Weekday,Winter,-44.9,Snow,39,52,91,77,14,5,2.1
+2025-12-05,December,Friday,Weekday,Winter,-37.2,Sunny,58,88,146,137,9,7,3.6
+2025-12-06,December,Saturday,Weekend,Winter,-39.6,Sunny,38,50,88,78,10,3,3.6
+2025-12-07,December,Sunday,Weekend,Winter,-39.2,Sunny,35,44,79,61,18,4,3.1
+2025-12-08,December,Monday,Weekday,Winter,-33.9,Snow,38,50,88,76,12,9,3.7
+2025-12-09,December,Tuesday,Weekday,Winter,-39.8,Sunny,44,72,116,93,23,4,4.1
+2025-12-10,December,Wednesday,Weekday,Winter,-37,Sunny,60,94,154,145,9,7,2.5
+2025-12-11,December,Thursday,Weekday,Winter,-40,Snow,32,52,84,69,15,9,2.7
+2025-12-12,December,Friday,Weekday,Winter,-38.9,Sunny,43,65,108,100,8,4,4
+2025-12-13,December,Saturday,Weekend,Winter,-35.9,Snow,15,24,39,20,19,6,4.5
+2025-12-14,December,Sunday,Weekend,Winter,-44.2,Overcast,37,52,89,80,9,1,4
+2025-12-15,December,Monday,Weekday,Winter,-40.4,Sunny,41,62,103,96,7,11,2.2
+2025-12-16,December,Tuesday,Weekday,Winter,-45.5,Overcast,54,81,135,122,13,10,2.6
+2025-12-17,December,Wednesday,Weekday,Winter,-45,Partly Cloudy,57,80,137,119,18,12,4
+2025-12-18,December,Thursday,Weekday,Winter,-44,Overcast,59,79,138,121,17,5,2.9
+2025-12-19,December,Friday,Weekday,Winter,-43.6,Snow,41,65,106,89,17,13,2.6
+2025-12-20,December,Saturday,Weekend,Winter,-40.4,Overcast,36,55,91,74,17,3,2.3
+2025-12-21,December,Sunday,Weekend,Winter,-43.1,Partly Cloudy,36,49,85,76,9,3,2.1
+2025-12-22,December,Monday,Weekday,Winter,-43.9,Sunny,51,82,133,113,20,8,2.6
+2025-12-23,December,Tuesday,Weekday,Winter,-47,Sunny,58,84,142,133,9,5,3.2
+2025-12-24,December,Wednesday,Weekday,Winter,-41.4,Snow,41,56,97,84,13,4,2.7
+2025-12-25,December,Thursday,Holiday,Winter,-43.5,Snow,15,25,40,17,23,11,3
+2025-12-26,December,Friday,Holiday,Winter,-38.9,Sunny,21,31,52,32,20,10,2.1
+2025-12-27,December,Saturday,Weekend,Winter,-43.6,Sunny,31,44,75,58,17,2,2.2
+2025-12-28,December,Sunday,Weekend,Winter,-37.2,Snow,27,39,66,44,22,2,2.8
+2025-12-29,December,Monday,Weekday,Winter,-38.7,Overcast,57,72,129,122,7,12,3.8
+2025-12-30,December,Tuesday,Weekday,Winter,-36.8,Snow,39,51,90,80,10,3,3.4
+2025-12-31,December,Wednesday,Weekday,Winter,-34.5,Overcast,62,95,157,150,7,9,3.7

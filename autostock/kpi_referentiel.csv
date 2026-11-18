@@ -1,0 +1,13 @@
+KpiCode,KpiFamily,KpiName,Unit,TargetValue,TargetDirection,Owner,DataStatus
+PM-01,Project management,Grid connection milestones met on time,% of milestones,100,Higher is better,Energy lead,A alimenter
+PM-02,Project management,Permits obtained on time,% of permits,100,Higher is better,CSR lead,A alimenter
+PM-03,Project management,Equipment delivered on time and compliant,% of orders,100,Higher is better,Energy lead,A alimenter
+PM-04,Project management,Cost overrun vs budget,%,15,Lower is better,Project director,A alimenter
+OPS-01,Site operations,Storage occupancy,% of capacity,90,Lower is better,Logistics lead,Donnee non fiable
+OPS-02,Site operations,Vehicles damaged or with undetected damage,% of vehicles handled,0.5,Lower is better,Logistics lead,A alimenter
+OPS-03,Site operations,Vehicles charged before their delivery slot,% of vehicles,98,Higher is better,Energy lead,Calcule
+OPS-04,Site operations,Winter days with normal operations,% of winter days,95,Higher is better,Logistics lead,Calcule
+CSR-01,CSR,Local staff recruited and trained before opening,% of planned staff,100,Higher is better,CSR lead,A alimenter
+CSR-02,CSR,Complaints answered within 48 h,% of complaints,100,Higher is better,CSR lead,A alimenter
+CSR-03,CSR,Safety incidents,count,0,Lower is better,CSR lead,Calcule
+CSR-04,CSR,Solar self-sufficiency over the full year,% of energy,60,Higher is better,Energy lead,Calcule
