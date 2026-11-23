@@ -1,0 +1,13 @@
+KPIID,Famille,KPI,Description,Unite,Cible,OwnerNom,OwnerID,Sens
+K01,Project management,Grid connection late,"Grid connection milestones met on time (request sent, study, agreement)",% of milestones,100 (request sent in December),Energy lead,ENERGY_LEAD,Maximiser
+K02,Project management,Permits late,Permits obtained on time,% of permits,100,CSR lead,CSR_LEAD,Maximiser
+K03,Project management,Equipment late or not compliant,Equipment delivered on time and passing acceptance tests,% of orders,100,Energy lead,ENERGY_LEAD,Maximiser
+K04,Project management,Budget overrun,Cost overrun vs budget,%,<= 15%,Project director,PROJECT_DIRECTOR,Minimiser
+K05,Site operations,Storage saturated,Storage occupancy,% of capacity,<= 90%,Logistics lead,LOGISTICS_LEAD,Minimiser
+K06,Site operations,Vehicles damaged,Vehicles damaged or with undetected damage,% of vehicles handled,"<= 0,5%",Logistics lead,LOGISTICS_LEAD,Minimiser
+K07,Site operations,Vehicles not charged on time,Vehicles charged before their delivery slot,% of vehicles,>= 98%,Energy lead,ENERGY_LEAD,Maximiser
+K08,Site operations,Winter stops activity,Winter days with normal operations,% of winter days,>= 95%,Logistics lead,LOGISTICS_LEAD,Maximiser
+K09,CSR,Staff not recruited or trained,Local staff recruited and trained before opening,% of planned staff,100,CSR lead,CSR_LEAD,Maximiser
+K10,CSR,Opposition from residents,Complaints answered within 48 h,% of complaints,100,CSR lead,CSR_LEAD,Maximiser
+K11,CSR,Battery fire or accident,Safety incidents,count,0,CSR lead,CSR_LEAD,Minimiser
+K12,CSR,Energy independence,"Solar self-sufficiency, measured over the full year",% of energy,>= 60 (ToR: 60-80),Energy lead,ENERGY_LEAD,Maximiser

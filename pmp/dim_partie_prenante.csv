@@ -1,0 +1,8 @@
+PartiePrenanteID,PartiePrenante,Pouvoir,Interet,PouvoirScore,InteretScore,Strategie,Attente
+S01,MKR Corp. - sponsor (Mrs. Zee),High,High,2,2,Manage closely,"A working, green site"
+S02,C.E.S. CEO - internal sponsor,High,High,2,2,Manage closely,A successful first contract abroad
+S03,City Council,High,Low,2,1,Keep satisfied,"Respect of local rules, little traffic"
+S04,Electricity company,High,Low,2,1,Keep satisfied,Safe grid connection
+S05,Contractors & suppliers,Low,High,1,2,Keep informed,Clear requirements
+S06,Future employees,Low,High,1,2,Keep informed,"Safe, good jobs"
+S07,Residents,Low,Low,1,1,Monitor,Little noise and traffic

@@ -1,0 +1,7 @@
+AnomalieID,Type,Source,Constat,Traitement,Statut
+A01,Numerotation,WBS / RACI,La sous-tache 'Digital & security systems' est numerotee 4.3.2 dans le RACI et 4.3.3 dans le WBS ; le WBS saute le 4.3.2.,Aligne sur 4.3.3,Corrige a l'extraction
+A02,Numerotation,WBS / Gantt,Le gate de fin de phase 5 est nomme G5 dans le WBS et G5b dans le Gantt.,Aligne sur G5,Corrige a l'extraction
+A03,Donnee manquante,Risks,Le risque R10 (categorie Legal) n'a pas de libelle : seules les cotations P=2 et I=2 sont saisies.,"Conserve, marque EstIncomplet",A completer dans le PMP
+A04,Couverture,Gantt,"Le Gantt ne porte de dates qu'aux niveaux Phase, Task et Gate. Les 46 sous-taches n'ont pas de dates propres.",Dates derivees par repartition de la fenetre de la tache parente,Hypothese de construction
+A05,Coherence,Feasibility / Gantt,"La feuille Feasibility pose la question d'une ouverture en mars 2027, alors que le Gantt acte une ouverture partielle au 15 decembre 2027 et complete en octobre 2028.",Planning de reference = Gantt,A arbitrer dans le PMP
+A06,Donnee manquante,KPI,5 des 12 KPI portent la mention 'A creer' ou ne peuvent pas etre alimentes avant la mise en service du site.,Marques DataStatus = A alimenter,Normal a ce stade

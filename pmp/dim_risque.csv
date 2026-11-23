@@ -1,0 +1,11 @@
+RisqueID,Categorie,Risque,Probabilite,Impact,Score,Niveau,Rang,ActionPreventive,OwnerID,OwnerNom,EstIncomplet
+R01,Logistics,Activity peaks exceed storage capacity,3,4,12,Critical,1,Overflow area; dispatch planned with MKR production ahead,LOGISTICS_LEAD,Logistics lead,0
+R02,Energy,Grid connection delayed or too small,3,4,12,Critical,1,Request connection early; battery; phased chargers,ENERGY_LEAD,Energy lead,0
+R03,Planning,Construction delay threatens March 2027 opening,3,4,12,Critical,1,"Inform, and negociate for extension delay with MKR as soon as possible",PROJECT_DIRECTOR,Project director,0
+R04,Climate,Harsh winter disrupts operations,4,3,12,Critical,1,"Winter plan; Equip workers, covered parking; snow-clearing contract",LOGISTICS_LEAD,Logistics lead,0
+R05,Regulatory,Permits delayed,3,3,9,High,5,Early meetings with the city and Ontario authorities,CSR_LEAD,CSR lead,0
+R06,Intercultural,Misunderstanding with the Canadian client,3,3,9,High,5,Send written minutes after every meeting; confirm our assumptions with MKR in writing,PROJECT_DIRECTOR,Project director,0
+R07,Safety,Battery fire in the storage area,2,4,8,High,7,Fire detection; spacing; emergency plan with fire service,CSR_LEAD,CSR lead,0
+R08,Energy,Solar target missed in winter,3,2,6,Moderate,8,Target measured over the year; battery; use smart charging whith the weather,ENERGY_LEAD,Energy lead,0
+R09,IT,IT failure or cyber-attack on site systems,2,3,6,Moderate,8,Separate the operations network from other networks; make regular back-ups; prepare manual procedures,PLANNING_LEAD,Planning lead,0
+R10,Legal,(non renseigne dans le PMP),2,2,4,Moderate,10,,,,1
