@@ -1,0 +1,32 @@
+LivrableID,WBSID,Livrable,Niveau,PhaseID,PhaseNom,DatePrevue,DateReelle,Statut,Avancement,JoursAvantEcheance,ValidateurNom
+L01,0.1,"Kick-off minutes, RACI, progress reports",Task,0,PROJECT MANAGEMENT (all phases),2029-02-16,,En cours,0.02,816,Project director
+L02,0.2,"WBS, Gantt, KPI dashboard",Task,0,PROJECT MANAGEMENT (all phases),2029-02-16,,En cours,0.022,816,Project director
+L03,0.3,"Risk register, FMEA (AMDEC), document register",Task,0,PROJECT MANAGEMENT (all phases),2029-02-16,,En cours,0.015,816,Project director
+L04,1.1,"Needs & assumptions list, key data sheet",Task,1,DIAGNOSIS & SCOPING,2026-11-13,2026-11-13,Produit,1.0,-10,Project director
+L05,1.2,"Regulatory screening, site constraints note",Task,1,DIAGNOSIS & SCOPING,2026-11-18,2026-11-18,Produit,1.0,-5,Project director
+L06,1.3,"Stakeholder register, OBS, scope note",Task,1,DIAGNOSIS & SCOPING,2026-11-20,2026-11-20,Produit,1.0,-3,Project director / MKR Steering committee
+L07,G1,Validated scope note,Gate,1,DIAGNOSIS & SCOPING,2026-11-20,,A venir,1.0,-3,MKR Steering committee
+L08,2.1,Logistics concept,Task,2,FEASIBILITY & SOLUTIONS,2026-11-30,,En cours,0.55,7,Project director
+L09,2.2,Energy report,Task,2,FEASIBILITY & SOLUTIONS,2026-12-03,,En cours,0.3,10,Project director
+L10,2.3,"CSR Specification Note, feasibility analysis",Task,2,FEASIBILITY & SOLUTIONS,2026-12-04,,En cours,0.2,11,Project director
+L11,G2,Decision record (choice of solutions),Gate,2,FEASIBILITY & SOLUTIONS,2026-12-08,,A venir,0.0,15,MKR Steering committee
+L12,3.1,"Structural design, BIM model",Task,3,DETAILED DESIGN & PERMITS,2027-04-30,,A venir,0.0,158,Project director
+L13,3.2,Technical design package,Task,3,DETAILED DESIGN & PERMITS,2027-05-28,,A venir,0.0,186,Project director
+L14,3.3,"Permit register, connection agreement",Task,3,DETAILED DESIGN & PERMITS,2027-06-30,,A venir,0.0,219,Project director
+L15,G3,Approved design & permits,Gate,3,DETAILED DESIGN & PERMITS,2027-06-30,,A venir,0.0,219,MKR Steering committee
+L16,4.1,"Contracts, order tracker",Task,4,PROCUREMENT & CONSTRUCTION,2027-09-30,,A venir,0.0,311,MKR Steering committee / Project director
+L17,4.2,Site progress reports,Task,4,PROCUREMENT & CONSTRUCTION,2028-07-28,,A venir,0.0,613,Project director
+L18,4.3,Installation records,Task,4,PROCUREMENT & CONSTRUCTION,2028-08-25,,A venir,0.0,641,Project director
+L19,G4,Completion certificate,Gate,4,PROCUREMENT & CONSTRUCTION,2028-08-25,,A venir,0.0,641,MKR Steering committee
+L20,5.1,Test reports,Task,5,TESTING & READINESS,2028-09-22,,A venir,0.0,669,Project director
+L21,5.2,"Operations manual, training records",Task,5,TESTING & READINESS,2028-09-15,,A venir,0.0,662,Project director
+L22,5.3,Handover pack,Task,5,TESTING & READINESS,2028-09-29,,A venir,0.0,676,Project director / MKR Steering committee
+L23,G5,Go / no-go decision,Gate,5,TESTING & READINESS,2028-09-29,,A venir,0.0,676,MKR Steering committee
+L24,6.1,Opening report,Task,6,OPENING & RAMP-UP,2028-10-15,,A venir,0.0,692,Project director
+L25,6.2,"Monthly KPI report, winter review",Task,6,OPENING & RAMP-UP,2028-12-15,,A venir,0.0,753,Project director
+L26,6.3,Adjustment log,Task,6,OPENING & RAMP-UP,2028-12-15,,A venir,0.0,753,Project director / MKR Steering committee
+L27,G6,Operation acceptance,Gate,6,OPENING & RAMP-UP,2028-12-15,,A venir,0.0,753,MKR Steering committee
+L28,7.1,"Final report, lessons learned report",Task,7,CLOSURE & TRANSITION,2029-01-31,,A venir,0.0,800,C.E.S. management / Project director
+L29,7.2,"Handover acceptance, maintenance plan",Task,7,CLOSURE & TRANSITION,2029-01-31,,A venir,0.0,800,Project director
+L30,7.3,"Replication guide, end-of-life note",Task,7,CLOSURE & TRANSITION,2029-02-16,,A venir,0.0,816,Project director
+L31,G7,Closure decision,Gate,7,CLOSURE & TRANSITION,2029-02-16,,A venir,0.0,816,MKR Steering committee
