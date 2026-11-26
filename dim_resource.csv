@@ -1,0 +1,14 @@
+ResourceID,Name,Role,Group,Organisation,IsCESTeam
+MKR_STEERING_COMMITTEE,MKR Steering committee,takes decisions,CLIENT,MKR Corp.,0
+MKR_TECHNICAL_DIVISION,MKR Technical Division,"validates, arbitrates",CLIENT,MKR Corp.,0
+MKR_FACTORY,MKR factory,vehicle flows,CLIENT,MKR Corp.,0
+C_E_S_MANAGEMENT,C.E.S. management,supervision,CONSULTING TEAM,C.E.S. International,1
+PROJECT_DIRECTOR,Project director,"coordination, reporting",CONSULTING TEAM,C.E.S. International,1
+LOGISTICS_LEAD,Logistics lead,"flows, capacity, winter",CONSULTING TEAM,C.E.S. International,1
+ENERGY_LEAD,Energy lead,"charging, solar, battery",CONSULTING TEAM,C.E.S. International,1
+CSR_LEAD,CSR lead,"CSR, regulations, local engagement",CONSULTING TEAM,C.E.S. International,1
+PLANNING_LEAD,Planning lead,"schedule, KPIs",CONSULTING TEAM,C.E.S. International,1
+AUTHORITIES,Authorities,"City of Hamilton, Ontario, Fire service",EXTERNAL STAKEHOLDERS,External,0
+COMMUNITY_CITY_COUNCIL,Community & City Council,"residents, council, local training orgs",EXTERNAL STAKEHOLDERS,External,0
+SUPPLIERS_CONTRACTORS,Suppliers & contractors,"contractors, equipment, service providers",EXTERNAL STAKEHOLDERS,External,0
+ELECTRICITY_UTILITY,Electricity utility,grid connection,EXTERNAL STAKEHOLDERS,External,0

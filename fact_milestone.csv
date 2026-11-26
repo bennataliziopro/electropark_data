@@ -1,0 +1,8 @@
+MilestoneID,WBSID,Milestone,ExpectedDeliverable,PhaseID,PhaseName,BaselineDate,DueDate,ActualDate,Status,VarianceDays,DaysToDue,Decision,AccountableName
+G1,G1,Gate G1 - Scope validated with MKR,Validated scope note,1,DIAGNOSIS & SCOPING,2026-11-20,2026-11-20,2026-11-20,Passed,0,-3,Scope approved by MKR without reservation,MKR Steering committee
+G2,G2,"Gate G2 - Choice of solutions (client decision, 8 Dec)",Decision record (choice of solutions),2,FEASIBILITY & SOLUTIONS,2026-12-08,2026-12-10,,At risk,2,17,Pushed 2 days: energy concept running late,MKR Steering committee
+G3,G3,Gate G3 - Design frozen & permits secured,Approved design & permits,3,DETAILED DESIGN & PERMITS,2027-06-30,2027-06-30,,Upcoming,0,219,,MKR Steering committee
+G4,G4,Gate G4 - Full construction completed,Completion certificate,4,PROCUREMENT & CONSTRUCTION,2028-08-25,2028-08-25,,Upcoming,0,641,,MKR Steering committee
+G5,G5,Gate G5 - Go / no-go: FULL operation,Go / no-go decision,5,TESTING & READINESS,2028-09-29,2028-09-29,,Upcoming,0,676,,MKR Steering committee
+G6,G6,Gate G6 - Operation acceptance,Operation acceptance,6,OPENING & RAMP-UP,2028-12-15,2028-12-15,,Upcoming,0,753,,MKR Steering committee
+G7,G7,Gate G7 - Closure decision,Closure decision,7,CLOSURE & TRANSITION,2029-02-16,2029-02-16,,Upcoming,0,816,,MKR Steering committee

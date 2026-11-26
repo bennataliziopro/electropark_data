@@ -1,0 +1,12 @@
+ItemID,Item,Category,Quantity,Unit,Origin,UnitPriceCAD,CostCAD,PhaseAssigned
+B01,"Ground level: paving, drainage, lighting, fences",Works and equipment,18200,m2,"20,000 m2 site - 1,800 m2 of buildings",180,3276000,4
+B02,Buildings: inspection hall + offices,Works and equipment,1800,m2,"1,000 m2 heated hall + 800 m2 offices (H10)",3500,6300000,4
+B03,Steel parking deck (2nd level),Works and equipment,500,position,Scenario A: 500 positions upstairs,35000,17500000,4
+B04,Solar panels (deck canopy + roofs),Works and equipment,2250,kWp,Scenario B,2600,5850000,4
+B05,Battery,Works and equipment,2000,kWh,Scenario C,600,1200000,4
+B06,AC chargers 22 kW,Works and equipment,66,charger,Scenario D,10000,660000,4
+B07,DC fast chargers (16 x 60 kW + 4 x 150 kW),Works and equipment,20,charger,Scenario D - average price,102000,2040000,4
+B08,Grid connection & transformer (1.5 MW),Works and equipment,1,lump sum,Scenario E,1000000,1000000,4
+B09,"Software, CCTV, fire detection",Works and equipment,1,lump sum,Whole site,1000000,1000000,4
+B10,"Studies, design & permits",Studies and design,,,usual 8-12 % of works,,3882600,0-3
+B11,Contingency (reserve for surprises),Contingency,,,usual 10-20 % at this stage,,6406290,Contingency

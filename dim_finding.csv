@@ -1,0 +1,7 @@
+FindingID,Type,Source,Finding,Treatment,Status
+A01,Numbering,WBS / RACI,"The subtask 'Digital & security systems' is numbered 4.3.2 in the RACI and 4.3.3 in the WBS, which skips 4.3.2.",Aligned on 4.3.3,Fixed at extraction
+A02,Numbering,WBS / Gantt,The end-of-phase-5 gate is named G5 in the WBS and G5b in the Gantt.,Aligned on G5,Fixed at extraction
+A03,Missing data,Risks,Risk R10 (Legal category) has no description: only the P=2 and I=2 ratings are filled in.,"Kept, flagged IsIncomplete",To be completed in the PMP
+A04,Coverage,Gantt,"The Gantt only carries dates at Phase, Task and Gate level. The 46 subtasks have no dates of their own.",Dates derived by splitting the parent task window,Build assumption
+A05,Consistency,Feasibility / Gantt,"The Feasibility sheet still asks about a March 2027 opening, while the Gantt commits to a partial opening on 15 December 2027 and full capacity in October 2028.",Baseline schedule = the Gantt,To be settled in the PMP
+A06,Missing data,KPI,5 of the 12 KPIs are marked 'to be created' or cannot be fed before the site goes live.,Flagged as not yet measurable,Normal at this stage
