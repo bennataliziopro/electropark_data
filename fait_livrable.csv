@@ -5,7 +5,7 @@ L03,0.3,"Risk register, FMEA (AMDEC), document register",Task,0,PROJECT MANAGEME
 L04,1.1,"Needs & assumptions list, key data sheet",Task,1,DIAGNOSIS & SCOPING,2026-11-13,2026-11-13,Produit,1.0,-10,Project director
 L05,1.2,"Regulatory screening, site constraints note",Task,1,DIAGNOSIS & SCOPING,2026-11-18,2026-11-18,Produit,1.0,-5,Project director
 L06,1.3,"Stakeholder register, OBS, scope note",Task,1,DIAGNOSIS & SCOPING,2026-11-20,2026-11-20,Produit,1.0,-3,Project director / MKR Steering committee
-L07,G1,Validated scope note,Gate,1,DIAGNOSIS & SCOPING,2026-11-20,,A venir,1.0,-3,MKR Steering committee
+L07,G1,Validated scope note,Gate,1,DIAGNOSIS & SCOPING,2026-11-20,2026-11-20,Produit,1.0,-3,MKR Steering committee
 L08,2.1,Logistics concept,Task,2,FEASIBILITY & SOLUTIONS,2026-11-30,,En cours,0.55,7,Project director
 L09,2.2,Energy report,Task,2,FEASIBILITY & SOLUTIONS,2026-12-03,,En cours,0.3,10,Project director
 L10,2.3,"CSR Specification Note, feasibility analysis",Task,2,FEASIBILITY & SOLUTIONS,2026-12-04,,En cours,0.2,11,Project director

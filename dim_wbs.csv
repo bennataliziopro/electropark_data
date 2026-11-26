@@ -1,86 +1,86 @@
-WBSID,Level,Description,Deliverable,PhaseID,PhaseShort,PhaseName,TaskID,TaskName,ParentID,SortOrder,IsLeaf
-0,Phase,PROJECT MANAGEMENT (all phases),,0,0 Project management,PROJECT MANAGEMENT (all phases),,,,1,0
-0.1,Task,Governance & reporting,"Kick-off minutes, RACI, progress reports",0,0 Project management,PROJECT MANAGEMENT (all phases),0.1,Governance & reporting,0,2,0
-0.1.1,Subtask,"Kick-off, roles & RACI",,0,0 Project management,PROJECT MANAGEMENT (all phases),0.1,Governance & reporting,0.1,3,1
-0.1.2,Subtask,Regular reporting to MKR,,0,0 Project management,PROJECT MANAGEMENT (all phases),0.1,Governance & reporting,0.1,4,1
-0.2,Task,Planning & control,"WBS, Gantt, KPI dashboard",0,0 Project management,PROJECT MANAGEMENT (all phases),0.2,Planning & control,0,5,0
-0.2.1,Subtask,"WBS, schedule & critical path",,0,0 Project management,PROJECT MANAGEMENT (all phases),0.2,Planning & control,0.2,6,1
-0.2.2,Subtask,KPIs & dashboard,,0,0 Project management,PROJECT MANAGEMENT (all phases),0.2,Planning & control,0.2,7,1
-0.3,Task,Risk & documents,"Risk register, FMEA (AMDEC), document register",0,0 Project management,PROJECT MANAGEMENT (all phases),0.3,Risk & documents,0,8,0
-0.3.1,Subtask,Risk analysis & FMEA (AMDEC),,0,0 Project management,PROJECT MANAGEMENT (all phases),0.3,Risk & documents,0.3,9,1
-0.3.2,Subtask,Document control,,0,0 Project management,PROJECT MANAGEMENT (all phases),0.3,Risk & documents,0.3,10,1
-1,Phase,DIAGNOSIS & SCOPING,,1,1 Scoping,DIAGNOSIS & SCOPING,,,,11,0
-1.1,Task,Needs & constraints,"Needs & assumptions list, key data sheet",1,1 Scoping,DIAGNOSIS & SCOPING,1.1,Needs & constraints,1,12,0
-1.1.1,Subtask,Analyse MKR documents,,1,1 Scoping,DIAGNOSIS & SCOPING,1.1,Needs & constraints,1.1,13,1
-1.1.2,Subtask,"Quantify key data (flows, capacity, energy, climate)",,1,1 Scoping,DIAGNOSIS & SCOPING,1.1,Needs & constraints,1.1,14,1
-1.2,Task,Regulatory & site context,"Regulatory screening, site constraints note",1,1 Scoping,DIAGNOSIS & SCOPING,1.2,Regulatory & site context,1,15,0
-1.2.1,Subtask,"Regulatory screening (permits, fire, Ontario)",,1,1 Scoping,DIAGNOSIS & SCOPING,1.2,Regulatory & site context,1.2,16,1
-1.2.2,Subtask,Site & climate conditions,,1,1 Scoping,DIAGNOSIS & SCOPING,1.2,Regulatory & site context,1.2,17,1
-1.3,Task,Stakeholders & scope,"Stakeholder register, OBS, scope note",1,1 Scoping,DIAGNOSIS & SCOPING,1.3,Stakeholders & scope,1,18,0
-1.3.1,Subtask,Stakeholder analysis,,1,1 Scoping,DIAGNOSIS & SCOPING,1.3,Stakeholders & scope,1.3,19,1
-1.3.2,Subtask,Scope validation with MKR,,1,1 Scoping,DIAGNOSIS & SCOPING,1.3,Stakeholders & scope,1.3,20,1
-G1,Gate,Decision point - end of phase 1,Validated scope note,1,1 Scoping,DIAGNOSIS & SCOPING,,,,21,1
-2,Phase,FEASIBILITY & SOLUTIONS,,2,2 Feasibility,FEASIBILITY & SOLUTIONS,,,,22,0
-2.1,Task,Logistics concept,Logistics concept,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.1,Logistics concept,2,23,0
-2.1.1,Subtask,Flows & capacity,,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.1,Logistics concept,2.1,24,1
-2.1.2,Subtask,Zoning & winter operations,,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.1,Logistics concept,2.1,25,1
-2.2,Task,Energy concept,Energy report,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.2,Energy concept,2,26,0
-2.2.1,Subtask,"Sizing of chargers, solar & battery",,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.2,Energy concept,2.2,27,1
-2.2.2,Subtask,Grid connection & smart charging,,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.2,Energy concept,2.2,28,1
-2.3,Task,CSR & feasibility verdict,"CSR Specification Note, feasibility analysis",2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.3,CSR & feasibility verdict,2,29,0
-2.3.1,Subtask,"CSR indicators, local jobs, inclusion, eco conception, security",,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.3,CSR & feasibility verdict,2.3,30,1
-2.3.2,Subtask,Scenario comparison & verdict,,2,2 Feasibility,FEASIBILITY & SOLUTIONS,2.3,CSR & feasibility verdict,2.3,31,1
-G2,Gate,Decision point - end of phase 2,Decision record (choice of solutions),2,2 Feasibility,FEASIBILITY & SOLUTIONS,,,,32,1
-3,Phase,DETAILED DESIGN & PERMITS,,3,3 Design,DETAILED DESIGN & PERMITS,,,,33,0
-3.1,Task,Civil & structural design,"Structural design, BIM model",3,3 Design,DETAILED DESIGN & PERMITS,3.1,Civil & structural design,3,34,0
-3.1.1,Subtask,Multi-level structure & solar support,,3,3 Design,DETAILED DESIGN & PERMITS,3.1,Civil & structural design,3.1,35,1
-3.1.2,Subtask,Snow load & winter resilience,,3,3 Design,DETAILED DESIGN & PERMITS,3.1,Civil & structural design,3.1,36,1
-3.2,Task,Systems design,Technical design package,3,3 Design,DETAILED DESIGN & PERMITS,3.2,Systems design,3,37,0
-3.2.1,Subtask,"Energy, charging & grid",,3,3 Design,DETAILED DESIGN & PERMITS,3.2,Systems design,3.2,38,1
-3.2.2,Subtask,Digital supervision & fire safety,,3,3 Design,DETAILED DESIGN & PERMITS,3.2,Systems design,3.2,39,1
-3.3,Task,Permits & grid connection,"Permit register, connection agreement",3,3 Design,DETAILED DESIGN & PERMITS,3.3,Permits & grid connection,3,40,0
-3.3.1,Subtask,Authority meetings & permit applications,,3,3 Design,DETAILED DESIGN & PERMITS,3.3,Permits & grid connection,3.3,41,1
-G3,Gate,Decision point - end of phase 3,Approved design & permits,3,3 Design,DETAILED DESIGN & PERMITS,,,,42,1
-4,Phase,PROCUREMENT & CONSTRUCTION,,4,4 Construction,PROCUREMENT & CONSTRUCTION,,,,43,0
-4.1,Task,Procurement,"Contracts, order tracker",4,4 Construction,PROCUREMENT & CONSTRUCTION,4.1,Procurement,4,44,0
-4.1.1,Subtask,Tender & contractor selection,,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.1,Procurement,4.1,45,1
-4.2,Task,Construction,Site progress reports,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.2,Construction,4,46,0
-4.2.1,Subtask,Site preparation,,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.2,Construction,4.2,47,1
-4.2.2,Subtask,Civil works & structure,,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.2,Construction,4.2,48,1
-4.2.3,Subtask,Roadways ramps & access points,,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.2,Construction,4.2,49,1
-4.3,Task,Installation,Installation records,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.3,Installation,4,50,0
-4.3.1,Subtask,"Solar, battery & chargers",,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.3,Installation,4.3,51,1
-4.3.3,Subtask,Digital & security systems,,4,4 Construction,PROCUREMENT & CONSTRUCTION,4.3,Installation,4.3,52,1
-G4,Gate,Decision point - end of phase 4,Completion certificate,4,4 Construction,PROCUREMENT & CONSTRUCTION,,,,53,1
-5,Phase,TESTING & READINESS,,5,5 Testing,TESTING & READINESS,,,,54,0
-5.1,Task,Testing & commissioning,Test reports,5,5 Testing,TESTING & READINESS,5.1,Testing & commissioning,5,55,0
-5.1.1,Subtask,Energy systems,,5,5 Testing,TESTING & READINESS,5.1,Testing & commissioning,5.1,56,1
-5.1.2,Subtask,Safety & digital systems,,5,5 Testing,TESTING & READINESS,5.1,Testing & commissioning,5.1,57,1
-5.2,Task,Operations readiness,"Operations manual, training records",5,5 Testing,TESTING & READINESS,5.2,Operations readiness,5,58,0
-5.2.1,Subtask,"Operating procedures (flows, winter, maintenance)",,5,5 Testing,TESTING & READINESS,5.2,Operations readiness,5.2,59,1
-5.2.2,Subtask,"Local recruitment, training & maintenance contracts",,5,5 Testing,TESTING & READINESS,5.2,Operations readiness,5.2,60,1
-5.3,Task,Handover & review,Handover pack,5,5 Testing,TESTING & READINESS,5.3,Handover & review,5,61,0
-5.3.1,Subtask,"Handover documents (as-built, asset data)",,5,5 Testing,TESTING & READINESS,5.3,Handover & review,5.3,62,1
-5.3.2,Subtask,Go / no-go review,,5,5 Testing,TESTING & READINESS,5.3,Handover & review,5.3,63,1
-G5,Gate,Decision point - end of phase 5,Go / no-go decision,5,5 Testing,TESTING & READINESS,,,,64,1
-6,Phase,OPENING & RAMP-UP,,6,6 Opening,OPENING & RAMP-UP,,,,65,0
-6.1,Task,Phased opening,Opening report,6,6 Opening,OPENING & RAMP-UP,6.1,Phased opening,6,66,0
-6.1.1,Subtask,Increase capacity step by step,,6,6 Opening,OPENING & RAMP-UP,6.1,Phased opening,6.1,67,1
-6.1.2,Subtask,Capacity at 100%,,6,6 Opening,OPENING & RAMP-UP,6.1,Phased opening,6.1,68,1
-6.2,Task,Performance monitoring,"Monthly KPI report, winter review",6,6 Opening,OPENING & RAMP-UP,6.2,Performance monitoring,6,69,0
-6.2.1,Subtask,"Monitor KPIs (flows, energy, solar share)",,6,6 Opening,OPENING & RAMP-UP,6.2,Performance monitoring,6.2,70,1
-6.2.2,Subtask,First winter review,,6,6 Opening,OPENING & RAMP-UP,6.2,Performance monitoring,6.2,71,1
-6.3,Task,Adjustments,Adjustment log,6,6 Opening,OPENING & RAMP-UP,6.3,Adjustments,6,72,0
-6.3.1,Subtask,Fix issues & adapt procedures,,6,6 Opening,OPENING & RAMP-UP,6.3,Adjustments,6.3,73,1
-6.3.2,Subtask,Confirm full operation,,6,6 Opening,OPENING & RAMP-UP,6.3,Adjustments,6.3,74,1
-G6,Gate,Decision point - end of phase 6,Operation acceptance,6,6 Opening,OPENING & RAMP-UP,,,,75,1
-7,Phase,CLOSURE & TRANSITION,,7,7 Closure,CLOSURE & TRANSITION,,,,76,0
-7.1,Task,Project closure,"Final report, lessons learned report",7,7 Closure,CLOSURE & TRANSITION,7.1,Project closure,7,77,0
-7.1.1,Subtask,Final report,,7,7 Closure,CLOSURE & TRANSITION,7.1,Project closure,7.1,78,1
-7.1.2,Subtask,Lessons learned and replication for other MKR sites,,7,7 Closure,CLOSURE & TRANSITION,7.1,Project closure,7.1,79,1
-7.2,Task,Transfer to operations,"Handover acceptance, maintenance plan",7,7 Closure,CLOSURE & TRANSITION,7.2,Transfer to operations,7,80,0
-7.2.1,Subtask,Transfer to the operations team,,7,7 Closure,CLOSURE & TRANSITION,7.2,Transfer to operations,7.2,81,1
-7.2.2,Subtask,Maintenance & monitoring plan,,7,7 Closure,CLOSURE & TRANSITION,7.2,Transfer to operations,7.2,82,1
-7.3,Task,Future use,"Replication guide, end-of-life note",7,7 Closure,CLOSURE & TRANSITION,7.3,Future use,7,83,0
-7.3.2,Subtask,End-of-life considerations,,7,7 Closure,CLOSURE & TRANSITION,7.3,Future use,7.3,84,1
-G7,Gate,Decision point - end of phase 7,Closure decision,7,7 Closure,CLOSURE & TRANSITION,,,,85,1
+WBSID,Niveau,Description,Livrable,PhaseID,PhaseCourt,PhaseNom,TacheID,TacheNom,ParentID,Ordre,EstFeuille
+0,Phase,PROJECT MANAGEMENT (all phases),,0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),,,,1,0
+0.1,Task,Governance & reporting,"Kick-off minutes, RACI, progress reports",0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.1,Governance & reporting,0,2,0
+0.1.1,Subtask,"Kick-off, roles & RACI",,0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.1,Governance & reporting,0.1,3,1
+0.1.2,Subtask,Regular reporting to MKR,,0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.1,Governance & reporting,0.1,4,1
+0.2,Task,Planning & control,"WBS, Gantt, KPI dashboard",0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.2,Planning & control,0,5,0
+0.2.1,Subtask,"WBS, schedule & critical path",,0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.2,Planning & control,0.2,6,1
+0.2.2,Subtask,KPIs & dashboard,,0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.2,Planning & control,0.2,7,1
+0.3,Task,Risk & documents,"Risk register, FMEA (AMDEC), document register",0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.3,Risk & documents,0,8,0
+0.3.1,Subtask,Risk analysis & FMEA (AMDEC),,0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.3,Risk & documents,0.3,9,1
+0.3.2,Subtask,Document control,,0,0 Gestion de projet,PROJECT MANAGEMENT (all phases),0.3,Risk & documents,0.3,10,1
+1,Phase,DIAGNOSIS & SCOPING,,1,1 Cadrage,DIAGNOSIS & SCOPING,,,,11,0
+1.1,Task,Needs & constraints,"Needs & assumptions list, key data sheet",1,1 Cadrage,DIAGNOSIS & SCOPING,1.1,Needs & constraints,1,12,0
+1.1.1,Subtask,Analyse MKR documents,,1,1 Cadrage,DIAGNOSIS & SCOPING,1.1,Needs & constraints,1.1,13,1
+1.1.2,Subtask,"Quantify key data (flows, capacity, energy, climate)",,1,1 Cadrage,DIAGNOSIS & SCOPING,1.1,Needs & constraints,1.1,14,1
+1.2,Task,Regulatory & site context,"Regulatory screening, site constraints note",1,1 Cadrage,DIAGNOSIS & SCOPING,1.2,Regulatory & site context,1,15,0
+1.2.1,Subtask,"Regulatory screening (permits, fire, Ontario)",,1,1 Cadrage,DIAGNOSIS & SCOPING,1.2,Regulatory & site context,1.2,16,1
+1.2.2,Subtask,Site & climate conditions,,1,1 Cadrage,DIAGNOSIS & SCOPING,1.2,Regulatory & site context,1.2,17,1
+1.3,Task,Stakeholders & scope,"Stakeholder register, OBS, scope note",1,1 Cadrage,DIAGNOSIS & SCOPING,1.3,Stakeholders & scope,1,18,0
+1.3.1,Subtask,Stakeholder analysis,,1,1 Cadrage,DIAGNOSIS & SCOPING,1.3,Stakeholders & scope,1.3,19,1
+1.3.2,Subtask,Scope validation with MKR,,1,1 Cadrage,DIAGNOSIS & SCOPING,1.3,Stakeholders & scope,1.3,20,1
+G1,Gate,Decision point - end of phase 1,Validated scope note,1,1 Cadrage,DIAGNOSIS & SCOPING,,,,21,1
+2,Phase,FEASIBILITY & SOLUTIONS,,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,,,,22,0
+2.1,Task,Logistics concept,Logistics concept,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.1,Logistics concept,2,23,0
+2.1.1,Subtask,Flows & capacity,,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.1,Logistics concept,2.1,24,1
+2.1.2,Subtask,Zoning & winter operations,,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.1,Logistics concept,2.1,25,1
+2.2,Task,Energy concept,Energy report,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.2,Energy concept,2,26,0
+2.2.1,Subtask,"Sizing of chargers, solar & battery",,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.2,Energy concept,2.2,27,1
+2.2.2,Subtask,Grid connection & smart charging,,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.2,Energy concept,2.2,28,1
+2.3,Task,CSR & feasibility verdict,"CSR Specification Note, feasibility analysis",2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.3,CSR & feasibility verdict,2,29,0
+2.3.1,Subtask,"CSR indicators, local jobs, inclusion, eco conception, security",,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.3,CSR & feasibility verdict,2.3,30,1
+2.3.2,Subtask,Scenario comparison & verdict,,2,2 Faisabilite,FEASIBILITY & SOLUTIONS,2.3,CSR & feasibility verdict,2.3,31,1
+G2,Gate,Decision point - end of phase 2,Decision record (choice of solutions),2,2 Faisabilite,FEASIBILITY & SOLUTIONS,,,,32,1
+3,Phase,DETAILED DESIGN & PERMITS,,3,3 Conception,DETAILED DESIGN & PERMITS,,,,33,0
+3.1,Task,Civil & structural design,"Structural design, BIM model",3,3 Conception,DETAILED DESIGN & PERMITS,3.1,Civil & structural design,3,34,0
+3.1.1,Subtask,Multi-level structure & solar support,,3,3 Conception,DETAILED DESIGN & PERMITS,3.1,Civil & structural design,3.1,35,1
+3.1.2,Subtask,Snow load & winter resilience,,3,3 Conception,DETAILED DESIGN & PERMITS,3.1,Civil & structural design,3.1,36,1
+3.2,Task,Systems design,Technical design package,3,3 Conception,DETAILED DESIGN & PERMITS,3.2,Systems design,3,37,0
+3.2.1,Subtask,"Energy, charging & grid",,3,3 Conception,DETAILED DESIGN & PERMITS,3.2,Systems design,3.2,38,1
+3.2.2,Subtask,Digital supervision & fire safety,,3,3 Conception,DETAILED DESIGN & PERMITS,3.2,Systems design,3.2,39,1
+3.3,Task,Permits & grid connection,"Permit register, connection agreement",3,3 Conception,DETAILED DESIGN & PERMITS,3.3,Permits & grid connection,3,40,0
+3.3.1,Subtask,Authority meetings & permit applications,,3,3 Conception,DETAILED DESIGN & PERMITS,3.3,Permits & grid connection,3.3,41,1
+G3,Gate,Decision point - end of phase 3,Approved design & permits,3,3 Conception,DETAILED DESIGN & PERMITS,,,,42,1
+4,Phase,PROCUREMENT & CONSTRUCTION,,4,4 Travaux,PROCUREMENT & CONSTRUCTION,,,,43,0
+4.1,Task,Procurement,"Contracts, order tracker",4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.1,Procurement,4,44,0
+4.1.1,Subtask,Tender & contractor selection,,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.1,Procurement,4.1,45,1
+4.2,Task,Construction,Site progress reports,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.2,Construction,4,46,0
+4.2.1,Subtask,Site preparation,,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.2,Construction,4.2,47,1
+4.2.2,Subtask,Civil works & structure,,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.2,Construction,4.2,48,1
+4.2.3,Subtask,Roadways ramps & access points,,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.2,Construction,4.2,49,1
+4.3,Task,Installation,Installation records,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.3,Installation,4,50,0
+4.3.1,Subtask,"Solar, battery & chargers",,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.3,Installation,4.3,51,1
+4.3.3,Subtask,Digital & security systems,,4,4 Travaux,PROCUREMENT & CONSTRUCTION,4.3,Installation,4.3,52,1
+G4,Gate,Decision point - end of phase 4,Completion certificate,4,4 Travaux,PROCUREMENT & CONSTRUCTION,,,,53,1
+5,Phase,TESTING & READINESS,,5,5 Essais,TESTING & READINESS,,,,54,0
+5.1,Task,Testing & commissioning,Test reports,5,5 Essais,TESTING & READINESS,5.1,Testing & commissioning,5,55,0
+5.1.1,Subtask,Energy systems,,5,5 Essais,TESTING & READINESS,5.1,Testing & commissioning,5.1,56,1
+5.1.2,Subtask,Safety & digital systems,,5,5 Essais,TESTING & READINESS,5.1,Testing & commissioning,5.1,57,1
+5.2,Task,Operations readiness,"Operations manual, training records",5,5 Essais,TESTING & READINESS,5.2,Operations readiness,5,58,0
+5.2.1,Subtask,"Operating procedures (flows, winter, maintenance)",,5,5 Essais,TESTING & READINESS,5.2,Operations readiness,5.2,59,1
+5.2.2,Subtask,"Local recruitment, training & maintenance contracts",,5,5 Essais,TESTING & READINESS,5.2,Operations readiness,5.2,60,1
+5.3,Task,Handover & review,Handover pack,5,5 Essais,TESTING & READINESS,5.3,Handover & review,5,61,0
+5.3.1,Subtask,"Handover documents (as-built, asset data)",,5,5 Essais,TESTING & READINESS,5.3,Handover & review,5.3,62,1
+5.3.2,Subtask,Go / no-go review,,5,5 Essais,TESTING & READINESS,5.3,Handover & review,5.3,63,1
+G5,Gate,Decision point - end of phase 5,Go / no-go decision,5,5 Essais,TESTING & READINESS,,,,64,1
+6,Phase,OPENING & RAMP-UP,,6,6 Ouverture,OPENING & RAMP-UP,,,,65,0
+6.1,Task,Phased opening,Opening report,6,6 Ouverture,OPENING & RAMP-UP,6.1,Phased opening,6,66,0
+6.1.1,Subtask,Increase capacity step by step,,6,6 Ouverture,OPENING & RAMP-UP,6.1,Phased opening,6.1,67,1
+6.1.2,Subtask,Capacity at 100%,,6,6 Ouverture,OPENING & RAMP-UP,6.1,Phased opening,6.1,68,1
+6.2,Task,Performance monitoring,"Monthly KPI report, winter review",6,6 Ouverture,OPENING & RAMP-UP,6.2,Performance monitoring,6,69,0
+6.2.1,Subtask,"Monitor KPIs (flows, energy, solar share)",,6,6 Ouverture,OPENING & RAMP-UP,6.2,Performance monitoring,6.2,70,1
+6.2.2,Subtask,First winter review,,6,6 Ouverture,OPENING & RAMP-UP,6.2,Performance monitoring,6.2,71,1
+6.3,Task,Adjustments,Adjustment log,6,6 Ouverture,OPENING & RAMP-UP,6.3,Adjustments,6,72,0
+6.3.1,Subtask,Fix issues & adapt procedures,,6,6 Ouverture,OPENING & RAMP-UP,6.3,Adjustments,6.3,73,1
+6.3.2,Subtask,Confirm full operation,,6,6 Ouverture,OPENING & RAMP-UP,6.3,Adjustments,6.3,74,1
+G6,Gate,Decision point - end of phase 6,Operation acceptance,6,6 Ouverture,OPENING & RAMP-UP,,,,75,1
+7,Phase,CLOSURE & TRANSITION,,7,7 Cloture,CLOSURE & TRANSITION,,,,76,0
+7.1,Task,Project closure,"Final report, lessons learned report",7,7 Cloture,CLOSURE & TRANSITION,7.1,Project closure,7,77,0
+7.1.1,Subtask,Final report,,7,7 Cloture,CLOSURE & TRANSITION,7.1,Project closure,7.1,78,1
+7.1.2,Subtask,Lessons learned and replication for other MKR sites,,7,7 Cloture,CLOSURE & TRANSITION,7.1,Project closure,7.1,79,1
+7.2,Task,Transfer to operations,"Handover acceptance, maintenance plan",7,7 Cloture,CLOSURE & TRANSITION,7.2,Transfer to operations,7,80,0
+7.2.1,Subtask,Transfer to the operations team,,7,7 Cloture,CLOSURE & TRANSITION,7.2,Transfer to operations,7.2,81,1
+7.2.2,Subtask,Maintenance & monitoring plan,,7,7 Cloture,CLOSURE & TRANSITION,7.2,Transfer to operations,7.2,82,1
+7.3,Task,Future use,"Replication guide, end-of-life note",7,7 Cloture,CLOSURE & TRANSITION,7.3,Future use,7,83,0
+7.3.2,Subtask,End-of-life considerations,,7,7 Cloture,CLOSURE & TRANSITION,7.3,Future use,7.3,84,1
+G7,Gate,Decision point - end of phase 7,Closure decision,7,7 Cloture,CLOSURE & TRANSITION,,,,85,1
